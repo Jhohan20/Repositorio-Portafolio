@@ -1,0 +1,135 @@
+*{
+	box-sizing: border-box;
+	font-family: 'PT Sans', sans-serif;
+}
+body{
+	margin: auto;
+	background-color: white;
+}
+.barra{
+	background-color: #13007C;
+}
+.inicio{
+	background-color: #86CD93;
+	margin: 5px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.portafolio{
+	background-color: #86CD93;
+	margin: 5px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.estudios{
+	background-color: #86CD93;
+	margin: 5px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.biografia{
+	background-color: #86CD93;
+	margin: 5px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.contacto{
+	background-color: #86CD93;
+	margin: 5px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.video{
+	margin: 50px;
+}
+
+.perfil{
+	margin-top: 50px;
+}
+.texto{
+	background-color: #3AACC1;
+	text-align: center;
+	font-size: 10px;
+}
+.imagenperfil{
+	margin-left: 45px;
+	margin-top: 10px;
+}
+.botoninfo{
+	margin-top: 20px;
+	width: 170px;
+}
+.habilidadest{
+	margin-left: 55px;
+	margin-bottom: 30px;
+}
+.habilidadesb{
+	margin-left: 85px;
+	margin-bottom: 30px;
+}
+.loquehago{
+	margin-left: 85px;
+	margin-bottom: 30px;
+}
+.caja1{
+	height: 80px;
+	background-color: #3AACC1;
+	text-align: center;
+}
+.caja2{
+	height: 70px;
+	background-color: white;
+}
+.texto2{
+	background-color: #86CD93;
+	text-align: center;
+	margin-top: 10px;
+}
+.tituloportafolio{
+	background-color: #3AACC1;
+	text-align: center;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	  padding: 3px 10px;
+  border-radius: 20px;
+  	margin-left: 280px;
+}
+.imagenlobo{
+	margin-left: 90px;
+}
+.portafoliocategorias{
+		background-color: #3AACC1;
+	text-align: center;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	  padding: 3px 10px;
+  border-radius: 20px;
+}
+.programacion{
+	height: 100px;
+	width: 100px;
+}
+.ajuste{
+	margin-left: 76px;
+}
+.textoins{
+  padding: 3px 10px;
+  border: PowderBlue 5px solid;
+  border-radius: 20px;
+  text-align: center;
+  margin-right: 20px;
+}
+.textoins1{
+  padding: 3px 10px;
+  border: PowderBlue 5px solid;
+  border-radius: 20px;
+  text-align: center;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+.textobiografia{
+  padding: 3px 10px;
+  border: PowderBlue 5px solid;
+  border-radius: 20px;
+  margin-right: 20px;
+}
